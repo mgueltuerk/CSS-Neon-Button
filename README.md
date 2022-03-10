@@ -1,2 +1,2 @@
-# CSS-Neon-Button
+# CSS Neon Button
 ![Alt-Text](/screenshot.png)
